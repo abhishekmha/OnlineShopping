@@ -163,7 +163,7 @@
 		<dependency>
 			<groupId>org.springframework.security</groupId>
 			<artifactId>spring-security-taglibs</artifactId>
-			<version>5.0.12.RELEASE</version>
+			<version>5.2.11.RELEASE</version>
 		</dependency>
 		<!-- Spring Security Artifacts - END -->
 
@@ -187,7 +187,7 @@
 		<dependency>
 			<groupId>org.hibernate</groupId>
 			<artifactId>hibernate-c3p0</artifactId>
-			<version>5.3.3.Final</version>
+			<version>5.4.24.Final</version>
 		</dependency>
 		<!-- Hibernate - END -->
 		
