@@ -104,7 +104,7 @@
 		<dependency>
 			<groupId>org.springframework</groupId>
 			<artifactId>spring-webmvc</artifactId>
-			<version>5.0.10.RELEASE</version>
+			<version>5.3.17</version>
 		</dependency>
 
 		<!-- https://mvnrepository.com/artifact/org.springframework/spring-orm -->
@@ -125,7 +125,7 @@
 		<dependency>
 		    <groupId>org.springframework</groupId>
 		    <artifactId>spring-context</artifactId>
-		    <version>5.0.7.RELEASE</version>
+		    <version>5.3.17</version>
 			<!-- Exclude Commons Logging in favor of SLF4j -->
 			<exclusions>
 				<exclusion>
